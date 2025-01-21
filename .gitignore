@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Install logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environment
+*.env
+*.venv
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Local files and directories
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs and debug files
+*.log
+*.out
+*.err
+*.pid
+*.gz
+
+# Ignore all other temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.swp
+
+# Ignore test databases
+*.sqlite3
