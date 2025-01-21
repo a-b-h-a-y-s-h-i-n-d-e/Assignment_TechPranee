@@ -1,5 +1,6 @@
 # About the Dataset
 The dataset is generated ( synthetic data ), contains all the required columns
+![sample](sample_dataset.png)
 
 ## Scattered plot
 ![plot](plot.png)
