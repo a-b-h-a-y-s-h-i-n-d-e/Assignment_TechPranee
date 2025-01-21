@@ -38,7 +38,7 @@ def generate_realistic_machine_data(num_records=1000, num_machines=100):
                 'Temperature': temperature,
                 'Run_Time': runtime,
                 'Downtime_Flag': downtime,
-                'Downtime_Probability': round(prob_downtime, 4)
+                
             })
     
     
